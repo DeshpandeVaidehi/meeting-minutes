@@ -1,0 +1,16 @@
+N:Hi Guys, good morning everyone
+V:Hey Hi good morning
+N:So we have a new requirement coming up on this SWP project and we need some developers on sprint made for SWP.So I would be reallocating some developers from the current sprint to SWP project sprint. So I am adding Anurag and Kaushik to the sprint for SWP.
+A:Hi Nehal, you might not know as you weren't there last week, we had a pod deployment failure. They are still looking into the cause. The rollback was successful however the business users were not satisfied. So do we need to keep this as a first priority or should we go for the regulatory project of SWP. 
+N: I will need to ask Prashant about it and will get back to you.
+P: Can we just check with Praphul that can we have some something that can enable to figure oout the cause of the failure.
+S: All the test cases were successful, none the defects were deferred.I think we have some configuration issues between UAT and PROD which might have caused. I think it will take around 2 hours.
+N: Ok Cool
+A: Another thing is that the month end is coming and we need to fill our timesheet by end of May.
+P: I have a question, do we have a separate project code for this new SWP project against which we need to fill our timesheet, or so.
+N: Yeah, I will get back to you guys and will mail the project code to you. 
+A: Can we have Vaidehi on this project as we don't want to miss any deadline
+N:  Yes sure, we definitely need more developers on this project, Vaidehi can join the project. 
+V: I have bandwidth and can definitely join.
+N: ok cool, thank you everyone.
+V: Thank you.
